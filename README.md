@@ -1,4 +1,4 @@
-# symfony6-ckeditor5-elfinder
+# Symfony6, CKeditor5 and elFinder
 Working example of CKeditor 5 (w/o bundle) + Elfinder  in a symfony 6 project
 
 How to use:
