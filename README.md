@@ -15,3 +15,6 @@ build the app:
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/stoorm)
 
+[![Crypto donation button by NOWPayments](https://nowpayments.io/images/embeds/donation-button-black.svg)](https://nowpayments.io/donation?api_key=2EFVWSJ-R1A4JTD-NHXZH4G-GB8M0V4&source=lk_donation&medium=referral)
+
+
