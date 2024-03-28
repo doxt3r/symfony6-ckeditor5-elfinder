@@ -9,7 +9,8 @@ Follow these steps to get started:
 
 1. Clone the repository:
    ```
-   $ git clone <repository_url>
+   $ git clone git@github.com:doxt3r/symfony6-ckeditor5-elfinder.git
+   $ cd symfony6-ckeditor5-elfinder/
    ```
 
 2. Install the dependencies:
