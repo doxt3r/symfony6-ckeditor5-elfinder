@@ -36,9 +36,6 @@ If you find this project helpful (this took me some time)  and would like to sho
 
 [!["Buy Me a Coffee"](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-yellow?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/stoorm)
 [!["Basic Attention Token (BAT)"](https://img.shields.io/badge/Donate-BAT-FB542B?logo=basicattentiontoken)](https://publishers.basicattentiontoken.org/c/gXIFvu55i9)
-[!["Donate with Bitcoin"](https://img.shields.io/badge/Donate-Bitcoin-F7931A?logo=bitcoin)](YOUR_BITCOIN_ADDRESS)
-[!["Donate with Ethereum"](https://img.shields.io/badge/Donate-Ethereum-3C3C3D?logo=ethereum)](YOUR_ETHEREUM_ADDRESS)
-[!["Donate with Solana"](https://img.shields.io/badge/Donate-Solana-1A1919?logo=solana)](YOUR_SOLANA_ADDRESS)
 
 [![Crypto donation button by NOWPayments](https://nowpayments.io/images/embeds/donation-button-black.svg)](https://nowpayments.io/donation?api_key=2EFVWSJ-R1A4JTD-NHXZH4G-GB8M0V4&source=lk_donation&medium=referral)
 
