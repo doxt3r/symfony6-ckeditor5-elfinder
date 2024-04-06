@@ -26,7 +26,18 @@ Encore
     .addEntry('jquery', './node_modules/jquery/dist/jquery.min.js') // jquery
     .addEntry('jquery-ui', './node_modules/jquery-ui/dist/jquery-ui.min.js') // jquery ui
 
-
+    .copyFiles({
+        from: 'node_modules/@ckeditor/ckeditor5-theme-lark/',
+        to: 'ckeditor5-theme-lark/[path]/[name].[ext]'
+    })
+    .copyFiles({
+        from: 'node_modules/jquery',
+        to: 'jquery/[path]/[name].[ext]'
+    })
+    .copyFiles({
+        from: 'node_modules/jquery-ui',
+        to: 'jquery-ui/[path]/[name].[ext]'
+    })
 
 
 
@@ -66,10 +77,6 @@ Encore
 
     // uncomment if you use TypeScript
     .enableTypeScriptLoader()
-    .addPlugin( new CKEditorTranslationsPlugin( {
-        // See https://ckeditor.com/docs/ckeditor5/latest/features/ui-language.html
-        language: 'fr'
-    } ) )
     // Use raw-loader for CKEditor 5 SVG files.
     .addRule( {
         test: /ckeditor5-[^/\\]+[/\\]theme[/\\]icons[/\\][^/\\]+\.svg$/,
