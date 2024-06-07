@@ -1,3 +1,5 @@
+![symfony6-ckeditor5-elfinder](assets/images/symfony_ckeditor_elfinder.png)
+
 # Symfony6, CKeditor5, and elFinder
 
 This is a working example of CKEditor 5 (without bundle) and elFinder integrated into a Symfony 6 project, a detailed post in on my blog.
@@ -32,6 +34,7 @@ Follow these steps to get started:
 
    [OK] Web server listening on http://127.0.0.1:....
    ```
+![symfony6-ckeditor5-elfinder-demo](assets/images/demo_ckedito5_elfinder_symfony.png)
 
    
 ## Support this work
