@@ -2,7 +2,7 @@
 
 # Symfony6, CKeditor5, and elFinder
 
-This is a working example of CKEditor 5 (without bundle) and elFinder integrated into a Symfony 6 project, a detailed post in on my blog.
+This is a working example of CKEditor 5 (without bundle) and elFinder integrated into a Symfony 6 project, a detailed post is in on my blog at: https://stoorm.org/article/ckeditor-5-et-symfony-sans-bundle-partie-2-Build-depuis-les-sources-filemanager-et-Configuration-avancee.
 
 
 The used configuration and code is also compatible with Symfony 4, 5 and 7 versions.
